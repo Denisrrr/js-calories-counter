@@ -1,5 +1,9 @@
 # Проект на JavaScript «Счётчик калорий»
 
+[Сайт](https://greatstudentkaze.github.io/js-calories-counter/)
+
+![](./demo/demo-1.png)
+![](./demo/demo-2.png)
 
 ---
 
